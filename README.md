@@ -72,18 +72,6 @@ Wygenerowany wykres przedstawia ceny akcji NVIDIA i Tesla w analizowanym okresie
 
 ---
 
-## Wkład
-
-Wszelkie sugestie i ulepszenia są mile widziane! Możesz rozwidlić repozytorium i przesłać swoje zmiany w postaci pull requesta.
-
-1. Stwórz rozwidlenie projektu.
-2. Utwórz nową gałąź (`git checkout -b feature/NazwaFunkcji`).
-3. Zatwierdź zmiany (`git commit -m 'Dodano NazwaFunkcji'`).
-4. Wypchnij zmiany (`git push origin feature/NazwaFunkcji`).
-5. Otwórz pull request.
-
----
-
 
 ## Autor
 
